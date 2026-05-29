@@ -54,6 +54,3 @@ npm run generate
 3. It processes the data and applies it to templates 
 4. It generates README files (`README.md` for Chinese, `README_en.md` for English)
 
-## 📝 Note
-
-This tool only processes directories with numeric names in the `cases` folder. Each of these directories should contain a `case.yml` file with case information and a image file.
