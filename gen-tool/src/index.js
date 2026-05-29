@@ -7,7 +7,6 @@ import langs from './i18n/lang.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const args = process.argv.slice(2);
 const args_lang = args.find(arg => arg.startsWith('--lang='));
 const lang = args_lang ? args_lang.split('=')[1] : 'zh';
