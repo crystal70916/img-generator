@@ -34,7 +34,6 @@ Most examples come from Twitter/X 🐦 and Sora 🎬. May they spark ideas 💡 
 - [🙏 Acknowledgements](#acknowledgements)
 - [🌟 Star History](#star-history)
 
-
 ---
 
 <a id="gpt4o-intro"></a>
@@ -48,7 +47,6 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 - 🖼️ Realistic composition: Spatial depth, perspective, and lighting that feel authentic
 - ✏️ Easy post‑editing: Swap backgrounds, tweak details—seamless for second‑round creation
 - ⚡️ Lightning‑fast interaction: Shorter response times for real‑time ideation and iteration
-
 
 ---
 
