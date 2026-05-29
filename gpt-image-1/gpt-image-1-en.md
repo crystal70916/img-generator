@@ -130,7 +130,6 @@ Generate a picture based on the prompt: Photo of a {item} on a white backdrop, i
 <a id="example-4"></a>
 ### Example 4: Handbag Matching Outfit
 
-
 <img src="./examples/handbag-output.png" width="300" alt="Handbag Matching Outfit">
 
 **Prompt:**
@@ -140,7 +139,6 @@ Generate a picture of a handbag that would go well with this outfit
 * **Notes / Usage:** This example requires uploading reference image(s).
 
 **Reference Image(s):**
-
 <img src="./examples/handbag-input.png" width="100" alt="Reference Image 1">
 
 **Parameters:** Model: gpt-image-1, Quality: high, Size: 1024x1024
@@ -151,7 +149,6 @@ Generate a picture of a handbag that would go well with this outfit
 
 <a id="example-5"></a>
 ### Example 5: Home Speaker Ad
-
 <img src="./examples/speaker-output.png" width="300" alt="Home Speaker Ad">
 
 **Prompt:**
