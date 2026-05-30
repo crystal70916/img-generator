@@ -32,18 +32,14 @@
 <a id="tools-intro"></a>
 {{{tools-intro}}}
 
-
 <a id="prompting-tips"></a>
 {{{prompting-tips}}}
-
 
 <a id="how-to-contribute"></a>
 {{{how-to-contribute}}}
 
-
 <a id="acknowledgements"></a>
 {{{acknowledgements}}}
-
 
 <a id="star-history"></a>
 {{{star-history}}}
