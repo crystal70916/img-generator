@@ -22,5 +22,4 @@ const langs = {
     'return_to_cases_toc_caption': 'Back to Cases Directory',
   },
 };
-
 export default langs;
