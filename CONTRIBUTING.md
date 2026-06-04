@@ -10,7 +10,6 @@ There are two main ways you can contribute.
 
 ➡️ 点击这里使用模板提交新案例：[提交新案例](https://github.com/jamez-bondos/awesome-gpt4o-images/issues/new?template=add_new_example.yml)
 
-
 ## Option 1: Quick Submit via GitHub Issue
 
 If you want to quickly share an example, or if you're less familiar with the Pull Request process, submitting via an Issue is a great option.
