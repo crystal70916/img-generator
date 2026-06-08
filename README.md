@@ -3,7 +3,6 @@ Awesome GPT-4o Images
 A community-curated collection of 100+ high-quality image prompts and examples generated using GPT-4o, gpt-image-1, and Sora. The project showcases the creative range of OpenAI's image generation models — from 3D chibi figures and Funko Pop-style renders to photorealistic product shots, anime stickers, and surreal composites.
 
 Each case includes:
-
 A ready-to-use prompt (in English and Chinese)
 An example output image
 The original author and source link
