@@ -74,7 +74,6 @@ const data = {
   'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8'),
   'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.md'), 'utf8')
 };
-
 // Render the README template
 const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README.md.md'), 'utf8');
 const renderedReadme = Mustache.render(readmeTemplate, data);
