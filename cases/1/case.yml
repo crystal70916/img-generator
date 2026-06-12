@@ -8,6 +8,7 @@ image: example_proposal_scene_q_realistic.png
 
 alt_text: Q版求婚场景
 alt_text_en: 3D Chibi Proposal Scene
+
 prompt: |
   将照片里的两个人转换成Q版 3D人物，场景换成求婚，背景换成淡雅五彩花瓣做的拱门，背景换成浪漫颜色，地上散落着玫瑰花瓣。除了人物采用Q版 3D人物风格，其他环境采用真实写实风格。
 prompt_en: |
