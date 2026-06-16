@@ -20,7 +20,6 @@ Most examples come from Twitter/X 🐦 and Sora 🎬. May they spark ideas 💡 
 -   English Version: [OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
-
 ---
 
 <a id="table-of-contents"></a>
