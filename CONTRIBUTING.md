@@ -1,7 +1,6 @@
 # 如何贡献
 
 您可以通过以下两种主要方式来贡献.
-
 There are two main ways you can contribute.
 
 ## 方式一：通过 GitHub Issue 快速提交
